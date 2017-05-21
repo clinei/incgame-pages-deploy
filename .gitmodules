@@ -1,0 +1,6 @@
+[submodule "repo"]
+	path = repo
+	url = https://github.com/clinei/incgame.git
+[submodule "pages"]
+	path = pages
+	url = https://github.com/clinei/incgame-pages.git
